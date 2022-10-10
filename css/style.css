@@ -3,6 +3,15 @@
     height: 4em;
 }
 
+#image_1{
+    background-image: url(../img/monitor.jpg);
+}
+
+#image_2{
+    background-image: url(../img/graph.jpg);
+}
+
+
 .publications_data{
     color: gray;
     font-size: 1.2em;
@@ -34,6 +43,20 @@
 
 .tr_blue{
     background-color:lightblue;
+}
+
+.footer_title{
+    font-size: 1.3em;
+    color: gray;
+}
+
+.footer_image{
+    font-size: 1.3em;
+    color: white;
+    width: 350px;
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 header{
